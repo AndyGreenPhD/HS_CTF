@@ -1,2 +1,2 @@
 # HS_CTF
-Repository for the HS CTF events I've run
+This is a repository of questions, answers, and support files for the Capture the Flag events I've run for high school students
