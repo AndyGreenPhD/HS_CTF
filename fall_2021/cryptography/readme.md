@@ -23,6 +23,7 @@ Hello World!
 ## Challenge 3 (300 points)
 **Challenge:**  
 See if you can decode the secret message in the file!
+
 ![sounds.wav](sounds.wav)
 <!-- ![Crypto3 image](Crypto3.png) -->
 
@@ -32,15 +33,10 @@ dotdashditdah
 ## Challenge 4 (400)
 **Challenge:**  
 See if you can decrypt the hidden message in the attached file!
-![Crypto4 image](Crypto4.png)
-![Crypto4a image](Crypto4a.jpg)
-
-**Hint:**  
-1.	This challenge could almost be steganography if you really think about it. (125 points)
-2.	It's not a homoglyph, or a homograph, but... (125 points)
+![thenumbersmason.png](thenumbersmason.png)
 
 **Answer:**  
-6
+squealoinksquealoink
 
 ## Challenge 5 (Difficulty level 5)
 **Challenge:**  
