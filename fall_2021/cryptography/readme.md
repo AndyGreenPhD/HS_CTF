@@ -18,7 +18,7 @@ See if you can find out what the below text means!
 > ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 ```
 **Answer:**  
-telegraph
+Hello World!
 
 ## Question 3 (Difficulty level 3)
 **Initial Information:**  
