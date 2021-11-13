@@ -17,8 +17,8 @@ This year, we had challenges in the following categories:
 
 This year, we had a total of 32 challenges for a maximum of 8000 points.  Prizes were awarded to the top three finishers:
 
-- First place 7900 points - Adarsh Krishna Kennesaw Mountain HS 10th grade
+1. 7900 points - Adarsh Krishna, Kennesaw Mountain HS, 10th grade
 
-- Second place 7470 points - Donovan McFarland Kennesaw Mountain HS 10th grade
+2. 7470 points - Donovan McFarland Kennesaw Mountain HS, 10th grade
 
-- Third place 7070 points - Sawyer Shepherd Pope HS 11th grade
+3. 7070 points - Sawyer Shepherd, Pope HS, 11th grade
