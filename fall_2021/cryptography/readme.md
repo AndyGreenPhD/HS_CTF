@@ -30,7 +30,7 @@ See if you can decode the secret message in the file!
 **Answer:**  
 dotdashditdah
 
-## Challenge 4 (400)
+## Challenge 4 (400 points)
 **Challenge:**  
 See if you can decrypt the hidden message in the attached file!
 ![thenumbersmason.png](thenumbersmason.png)
@@ -38,14 +38,15 @@ See if you can decrypt the hidden message in the attached file!
 **Answer:**  
 squealoinksquealoink
 
-## Challenge 5 (Difficulty level 5)
+## Challenge 5 (500 points)
 **Challenge:**  
-Another operative just passed us this message to break. Can you crack it and tell us what the answer is?  
-![Crypto5 image](Crypto5.png)
+Given the string below, see if you can find the flag using the attached file:
 
-**Hint:**  
-1.	This operative also really liked birdwatching, and kept talking about Charadrius melodus, whatever that is. (100 points)
-2.	In a past life, this operative worked in the legal system recording conversations. (100 points)
+```
+
+ÖÊËÕËÕÏÛÈÃØÈÑÐÖ
+```
+![awfulfont.ttf](awfulfont.ttf)
 
 **Answer:**  
-steno
+THISISMYFAVFONT
