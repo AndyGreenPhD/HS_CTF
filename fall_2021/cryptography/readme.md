@@ -1,7 +1,7 @@
 # Cryptography questions
 
-## Question 1 (100 points)
-**Initial Information:**  
+## Challenge 1 (100 points)
+**Challenge:**  
 Decrypt the text from the attached document!
 
 ![wewillrotyou.txt](wewillrotyou.txt)
@@ -9,8 +9,8 @@ Decrypt the text from the attached document!
 **Answer:**  
 hey_hello_hi
 
-## Question 2 (200 points)
-**Initial Information:**    
+## Challenge 2 (200 points)
+**Challenge:**    
 See if you can find out what the below text means!
 
 ```
@@ -20,21 +20,18 @@ See if you can find out what the below text means!
 **Answer:**  
 Hello World!
 
-## Question 3 (Difficulty level 3)
-**Initial Information:**  
-Our operative just passed us this message. Maybe you can tell us what the answer is?  
- ![Crypto3 image](Crypto3.png)
-
-**Hint:**  
-1.	This operative was into secret societies and cults. (75 points)
-2.	He was also a stoneworker, if that helps at all. (75 points)
+## Challenge 3 (300 points)
+**Challenge:**  
+See if you can decode the secret message in the file!
+![sounds.wav](sounds.wav)
+<!-- ![Crypto3 image](Crypto3.png) -->
 
 **Answer:**  
-pigpen
+dotdashditdah
 
-## Question 4 (Difficulty level 4)
-**Initial Information:**  
-You only have one shot with this one, better make it count. We have an operative that just passed us the following message. Which numbered person from the photo is our operative?  
+## Challenge 4 (400)
+**Challenge:**  
+See if you can decrypt the hidden message in the attached file!
 ![Crypto4 image](Crypto4.png)
 ![Crypto4a image](Crypto4a.jpg)
 
@@ -45,8 +42,8 @@ You only have one shot with this one, better make it count. We have an operative
 **Answer:**  
 6
 
-## Question 5 (Difficulty level 5)
-**Initial Information:**  
+## Challenge 5 (Difficulty level 5)
+**Challenge:**  
 Another operative just passed us this message to break. Can you crack it and tell us what the answer is?  
 ![Crypto5 image](Crypto5.png)
 
